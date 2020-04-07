@@ -1,0 +1,12 @@
+{
+	"name":"CMC App",
+	"description": "Test Web client Addon",
+	"version":"1.0.0",
+	"vendor":"CMC",
+	"multiple-version":"false",
+	"fiori-app":[
+		{
+			"name":"Google in Web Client",
+			"folder":"maps"
+		}]
+}
