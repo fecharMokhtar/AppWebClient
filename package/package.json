@@ -1,0 +1,12 @@
+{
+	"name":"CMCApp1",
+	"description": "Test Web client Addon",
+	"version": "1",
+	"vendor": "CMC",
+  "multiple-version" : "false",
+	"fiori-app": [
+		{
+			"name":"Maps in Web Client",
+			"folder":"maps"
+		} ]
+}
