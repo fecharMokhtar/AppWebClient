@@ -1,0 +1,12 @@
+{
+	"name":"CMCApp1",
+	"description": "MAPS",
+	"version": "1",
+	"vendor": "CMC",
+  "multiple-version" : "false",
+	"fiori-app": [
+		{
+			"name":"Maps in Web Client",
+			"folder":"maps"
+		} ]
+}
